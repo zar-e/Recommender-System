@@ -13,6 +13,6 @@ Dependencies:
 
 Brought to you by the Islanders:
 
-Avlonitis Ektor
+Avlonitis Ektoras
 Lazarevič Miloš
 Vavakas Alexandros
