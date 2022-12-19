@@ -10,3 +10,9 @@ Dependencies:
 4) pyplot from Matplotlib
 5) cosine_similarity from sklearn
 6) Book-Crossing Dataset: http://www2.informatik.uni-freiburg.de/~cziegler/BX/"# Recommender-System" 
+
+Brought to you by the Islanders:
+
+Avlonitis Ektor
+Lazarevič Miloš
+Vavakas Alexandros
